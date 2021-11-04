@@ -1,0 +1,8 @@
+Inst linux-modules-4.4.0-210-generic (4.4.0-210.242 Ubuntu:16.04/xenial-updates, Ubuntu:16.04/xenial-security [amd64])
+Inst linux-image-4.4.0-210-generic (4.4.0-210.242 Ubuntu:16.04/xenial-updates, Ubuntu:16.04/xenial-security [amd64])
+Inst linux-modules-extra-4.4.0-210-generic (4.4.0-210.242 Ubuntu:16.04/xenial-updates, Ubuntu:16.04/xenial-security [amd64])
+Inst linux-generic [4.4.0.186.192] (4.4.0.210.216 Ubuntu:16.04/xenial-updates, Ubuntu:16.04/xenial-security [amd64]) []
+Inst linux-image-generic [4.4.0.186.192] (4.4.0.210.216 Ubuntu:16.04/xenial-updates, Ubuntu:16.04/xenial-security [amd64]) []
+Inst linux-headers-4.4.0-210 (4.4.0-210.242 Ubuntu:16.04/xenial-updates, Ubuntu:16.04/xenial-security [all]) []
+Inst linux-headers-4.4.0-210-generic (4.4.0-210.242 Ubuntu:16.04/xenial-updates, Ubuntu:16.04/xenial-security [amd64]) []
+Inst linux-headers-generic [4.4.0.186.192] (4.4.0.210.216 Ubuntu:16.04/xenial-updates, Ubuntu:16.04/xenial-security [amd64])
